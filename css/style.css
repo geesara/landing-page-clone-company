@@ -1,3 +1,24 @@
 div {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
+}
+*{
+	font-size: 17px;
+}
+/*  contacts section  */
+
+#contact-section{
+	text-align: right;
+	background-color: #001232;
+	color: #ffffff;
+	padding: 20px 0;
+	font-size: 1em;
+}
+#contact-section .icon{
+	border: 2px solid #e6cf04;
+	border-radius: 50%;
+	padding: 0.3em;
+	color: #e6cf04;
+}
+#contact-section p{
+	margin: 0;
 }
